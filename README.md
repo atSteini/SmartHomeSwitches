@@ -11,7 +11,7 @@ Included Libraries:
   
 Parts:
 	- Esp8266-01 Module + USB-Adapter
-		○ https://www.amazon.de/AZDelivery-ESP8266-ESP-01-USB-Adapter-Arduino/dp/B078J7LDLY/ref=sr_1_1_sspa?ie=UTF8&qid=1549103422&sr=8-1-spons&keywords=esp8266+usb&psc=1
+		○ https://www.amazon.de/AZDelivery-ESP8266-ESP-01-USB-Adapter-Arduino/dp/B078J7LDLY/
 	- 4-Relais Module
 		○ https://www.amazon.de/AZDelivery-4-Relais-Optokoppler-Low-Level-Trigger-Arduino/dp/B078Q8S9S9/ref=sr_1_1?ie=UTF8&qid=1549103459&sr=8-1&keywords=azdelivery+4+relais
 	- DC-DC Step Down Converter
